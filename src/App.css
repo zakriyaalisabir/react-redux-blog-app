@@ -1,0 +1,121 @@
+.imgMargin {
+  margin: 15px;
+  margin-left: 50px;
+}
+
+.iconEdit {
+  transform: scale(2, 2);
+}
+
+.navUl {
+  list-style-type: none;
+  display: inline-block;
+}
+
+.navBarSpanText {
+  font-size: 30px;
+  padding: 10px;
+  margin-top: 50px;
+  margin: 30px;
+  font: bold;
+}
+
+.rowAboveTable {
+  margin-left: 65px;
+  margin-right: 65px;
+}
+
+.rowTable {
+  margin-top: 20px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.btnAddNew {
+  background-color: #123456;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.tableHeader {
+  background-color: #4f4f4f;
+  color: #ffffff;
+}
+
+.seachBar {
+  position: absolute;
+  right: 0;
+  /* float: right; */
+  margin-right: 65;
+  font-style: italic;
+  height: 30px;
+}
+
+.btnSearch {
+  width: 30px;
+  height: 30px;
+}
+
+.bannerImg {
+  background-image: url('./assets/img/cover.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  padding-top: 50px;
+  padding-left: 50px;
+  color: white;
+  width: 100%;
+}
+
+.viewDescription {
+  padding: 50px;
+}
+
+.likeBtn {
+  padding-left: 50px;
+}
+
+.commentTextArea {
+  width: 100%;
+}
+
+.navDiv {
+  margin-left: 65px;
+  margin-right: 60px;
+}
+
+.postsText {
+  font-size: 25px;
+}
+
+.view-post-heading {
+  margin-top: 50px;
+  padding-bottom: 30px;
+}
+
+.back-icon {
+  transform: scale(2, 2);
+}
+
+.back-btn {
+  border-radius: 50%;
+}
+
+.comment-view-holder{
+  font-size: 12px;
+  color: #123456;
+}

@@ -1,0 +1,1 @@
+export const API_LINK = 'http://5d1b60a5dd81710014e886c4.mockapi.io/api/v1/posts/';
